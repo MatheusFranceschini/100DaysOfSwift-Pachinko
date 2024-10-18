@@ -14,6 +14,7 @@
 		7679F4EA2CBDEC4000DBACA2 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 7679F4E92CBDEC4000DBACA2 /* Base */; };
 		7679F4EC2CBDEC4100DBACA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7679F4EB2CBDEC4100DBACA2 /* Assets.xcassets */; };
 		7679F4EF2CBDEC4100DBACA2 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 7679F4EE2CBDEC4100DBACA2 /* Base */; };
+		7679F4F62CC1EA7200DBACA2 /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7679F4F52CC1EA7200DBACA2 /* FireParticles.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		7679F4E92CBDEC4000DBACA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7679F4EB2CBDEC4100DBACA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7679F4EE2CBDEC4100DBACA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7679F4F52CC1EA7200DBACA2 /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 		7679F4DD2CBDEC3F00DBACA2 /* Pachinko */ = {
 			isa = PBXGroup;
 			children = (
+				7679F4F52CC1EA7200DBACA2 /* FireParticles.sks */,
 				7679F4DE2CBDEC4000DBACA2 /* AppDelegate.swift */,
 				7679F4E02CBDEC4000DBACA2 /* GameScene.sks */,
 				7679F4E42CBDEC4000DBACA2 /* GameScene.swift */,
@@ -128,6 +131,7 @@
 			files = (
 				7679F4E12CBDEC4000DBACA2 /* GameScene.sks in Resources */,
 				7679F4EA2CBDEC4000DBACA2 /* Base in Resources */,
+				7679F4F62CC1EA7200DBACA2 /* FireParticles.sks in Resources */,
 				7679F4EC2CBDEC4100DBACA2 /* Assets.xcassets in Resources */,
 				7679F4EF2CBDEC4100DBACA2 /* Base in Resources */,
 			);
